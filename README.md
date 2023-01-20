@@ -4,6 +4,8 @@ Than you
 
 
 OUTPUT//
+
+
 Restaurant Details no.1:
 Restaurant Name: Dhaabay
 Discount avaliable: 50%
