@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-from urllib.request import urlopen
 import requests
 
 swiggy_url = requests.get("https://www.swiggy.com/city/mumbai/borivali-restaurants").text
