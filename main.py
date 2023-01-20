@@ -20,13 +20,13 @@ def restaurants():
 
 
         
-        print(f"Restaurant Details no.{index}:")
+        print(f"Restaurant Details no.{index+1}:")
         print(f"Restaurant Name: {restaurant_name}")
         print(f"Discount avaliable: {discount}")
         print(f"Approximate delivery time: {timing}")
         print(f"Rating: {ratings}")
         print()
-        print(f"Item details no.{index}:")
+        print(f"Item details no.{index+1}:")
         print(f"Name of items available:{item_name}")
         print(f"Price:{item_price}")
         print()
